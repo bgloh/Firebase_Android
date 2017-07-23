@@ -7,8 +7,8 @@ package com.example.bgloh.firebasetrial4;
 public class Person {
 
     // name and address string
-    private String name;
-    private String address;
+    public String name;
+    public String address;
 
     public Person() {
         // default constructor
